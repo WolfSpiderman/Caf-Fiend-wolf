@@ -1,6 +1,6 @@
 # Caf-Fiend
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ## Description
 Application for keeping track of a caffeine drinker's favorite drinks. A user can input a new caffeinated beverage and include ratings of each beverage. Once a user logs in, they can view a list of beverages they have tried and view (as well as update) where that beverage falls in the user’s personal ranking.  
@@ -9,13 +9,15 @@ Application for keeping track of a caffeine drinker's favorite drinks. A user ca
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [App](#app)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+- [Caf-Fiend](#caf-fiend)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [App](#app)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Questions](#questions)
 
 ## Installation
 
@@ -43,16 +45,12 @@ To use this application, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. For more information, see the [LICENSE](https://opensource.org/licenses/MIT) file.
+Licensed under the [MIT License](https://opensource.org/licenses/MIT)
 
 ## Contributing
 
 To contribute, please fork the repository, create a new branch for your changes, and open a pull request.
 
-## Tests
-
-Currently, there are no tests available for this application.
-
 ## Questions
 
-For any questions, please reach out to me via [GitHub](https://github.com/JoelCupeles) or [email](mailto:myemail@gmail.com).
+[![GitHub](https://img.shields.io/badge/GitHub-WolfSpiderMan-orange)](https://github.com/WolfSpiderMan)
